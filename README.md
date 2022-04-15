@@ -45,7 +45,7 @@ Image:
 
 Made with ❤️ by [Luiz Fernando](https://github.com/Luizfpsvn), enter in contact!
 
-<a href="mailto:luizfernando.cg@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/luizfernando.cg@hotmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" height="25"></a>&nbsp;
-<a href="https://www.linkedin.com/in/luiz-fernando-pinto-de-souza-verly-do-nascimento-551513231/" target="_blank"><img src="https://img.shields.io/badge/Luiz Fernando Pinto De Souza Verly Do Nascimento-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
+<a href="mailto:luizfernando.cg@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/luizfernando.cg@hotmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" height="25" target="_blank"></a>&nbsp;
+<a href="https://www.linkedin.com/in/luiz-fernando-pinto-de-souza-verly-do-nascimento-551513231/" target="_blank"><img src="https://img.shields.io/badge/Luiz Fernando Pinto De Souza Verly Do Nascimento-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25" target="_blank"></a>&nbsp;
 
 <br clear="left"/>
